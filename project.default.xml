@@ -1,0 +1,15 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerConfiguration">
+        <option name="DEFAULT_COMPILER" value="Eclipse" />
+      </component>
+      <component name="EclipseCompilerSettings">
+        <option name="ECJ_TOOL_PATH" value="$USER_HOME$/ecj/ecj-3.20.0.jar" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

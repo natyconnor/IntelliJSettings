@@ -1,0 +1,20 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping ext="" type="Dockerfile" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".checkstyle" type="PLAIN_TEXT" />
+      <mapping ext="datarouter-logging" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="XML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="cfg" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
+      <mapping pattern="hpproxy" type="Bash" />
+    </extensionMap>
+  </component>
+</application>
