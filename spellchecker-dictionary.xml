@@ -5,11 +5,13 @@
       <w>backfilled</w>
       <w>billability</w>
       <w>databean</w>
+      <w>describeable</w>
       <w>entrata</w>
       <w>guestcard</w>
       <w>guestcards</w>
       <w>joblet</w>
       <w>rocketship</w>
+      <w>zuora</w>
     </words>
   </component>
 </application>
