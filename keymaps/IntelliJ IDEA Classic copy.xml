@@ -57,4 +57,7 @@
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.UpdateProject" />
+  <action id="codeium.ak">
+    <keyboard-shortcut first-keystroke="shift back_slash" />
+  </action>
 </keymap>
