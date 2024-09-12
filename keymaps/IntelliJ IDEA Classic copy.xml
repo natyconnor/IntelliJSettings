@@ -61,4 +61,8 @@
   <action id="codeium.ak">
     <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
+  <action id="com.codeium.intellij.AcceptCompletionAction">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
+  <action id="com.codeium.intellij.TriggerCompletionAction" />
 </keymap>
