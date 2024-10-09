@@ -3,6 +3,7 @@
     <explicitly-accepted>
       <name>JDK_X</name>
       <name>JDK_21</name>
+      <name>JDK_23</name>
     </explicitly-accepted>
   </component>
 </application>
