@@ -33,6 +33,11 @@
     <option name="ALIGN_MULTILINE_RECORDS" value="false" />
     <option name="NEW_LINE_AFTER_LPAREN_IN_RECORD_HEADER" value="true" />
   </JavaCodeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="120" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
@@ -120,6 +125,11 @@
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="JSPX">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
@@ -128,6 +138,11 @@
   <codeStyleSettings language="PYTHON">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="false" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>

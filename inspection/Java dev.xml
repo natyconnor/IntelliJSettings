@@ -1,5 +1,5 @@
 <profile version="1.0">
-  <option name="myName" value="Default" />
+  <option name="myName" value="Java dev" />
   <inspection_tool class="AccessStaticViaInstance" enabled="true" level="ERROR" enabled_by_default="true" editorAttributes="ERRORS_ATTRIBUTES" />
   <inspection_tool class="CheckStyle" enabled="true" level="ERROR" enabled_by_default="true" editorAttributes="ERRORS_ATTRIBUTES" />
   <inspection_tool class="DanglingJavadoc" enabled="false" level="WARNING" enabled_by_default="false" />

@@ -3,6 +3,7 @@
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Java dev" />
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
@@ -30,12 +31,15 @@
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
+    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
